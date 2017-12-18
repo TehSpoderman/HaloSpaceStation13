@@ -61,6 +61,12 @@
 	icon_state = "engineering_storage"
 	dynamic_lighting = 1
 
+/area/hostage/crate_storage
+/area/hostage/ghetto_armory
+	name = "armory"
+	icon_state = "armory"
+	dynamic_lighting = 1
+
 // Create areas for use in the drop base
 /area/hostage/hrt_pod/infirmary/lobby
 	name = "infirmary_lobby"
@@ -136,5 +142,65 @@ area/hostage/hrt_ship/dorms
 area/hostage/hrt_ship/armory
 	name = "Armory"
 	icon_state = "armory"
+	requires_power = 0
+	dynamic_lighting = 0
+
+area/hostage/hrt_ship/maint
+	name = "Maintenance"
+	icon_state = "shuttle"
+	requires_power = 0
+	dynamic_lighting = 0
+
+area/hostage/hrt_ship/engineering
+	name = "Engineering"
+	icon_state = "engineering_storage"
+	requires_power = 0
+	dynamic_lighting = 0
+
+area/hostage/hrt_ship/break_room
+	name = "Break_room"
+	icon_state = "cafeteria"
+	requires_power = 0
+	dynamic_lighting = 0
+
+area/hostage/hrt_ship/bridge_crew
+	name = "Bridge_Crew_Quarters"
+	icon_state = "centcom"
+	requires_power = 0
+	dynamic_lighting = 0
+
+area/hostage/hrt_ship/conference
+	name = "Conference"
+	icon_state = "centcom"
+	requires_power = 0
+	dynamic_lighting = 0
+
+area/hostage/hrt_ship/bridge_entrance
+	name = "Bridge_Entrance"
+	icon_state = "centcom"
+	requires_power = 0
+	dynamic_lighting = 0
+
+area/hostage/hrt_ship/engineering/CE_office
+	name = "CE_office"
+	icon_state = "centcom"
+	requires_power = 0
+	dynamic_lighting = 0
+
+area/hostage/hrt_ship/engineering/supply
+	name = "supply_room"
+	icon_state = "engineering_supply"
+	requires_power = 0
+	dynamic_lighting = 0
+
+area/hostage/hrt_ship/engineering/circuit_storage
+	name = "ciruit_storage"
+	icon_state = "engineering_storage"
+	requires_power = 0
+	dynamic_lighting = 0
+
+area/hostage/hrt_ship/engineering/atmos
+	name = "atmospherics"
+	icon_state = "atmos"
 	requires_power = 0
 	dynamic_lighting = 0
