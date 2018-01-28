@@ -1,0 +1,151 @@
+"aa" = (/turf/simulated/mineral,/area/space)
+"ab" = (/turf/simulated/floor/grass,/area/space)
+"ac" = (/turf/simulated/floor/grass,/turf/simulated/shuttle/wall/corner/dark/nw,/area/space)
+"ad" = (/turf/simulated/wall,/area/space)
+"ae" = (/turf/simulated/floor/grass,/turf/simulated/shuttle/wall/corner/dark/ne,/area/space)
+"af" = (/turf/simulated/floor/tiled,/area/space)
+"ag" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{tag = "icon-rwindow (NORTH)"; icon_state = "rwindow"; dir = 1},/turf/simulated/floor/airless,/area/space)
+"ah" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{tag = "icon-rwindow (NORTH)"; icon_state = "rwindow"; dir = 1},/turf/simulated/floor/airless,/area/space)
+"ai" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{tag = "icon-rwindow (NORTH)"; icon_state = "rwindow"; dir = 1},/obj/structure/window/reinforced{tag = "icon-rwindow (EAST)"; icon_state = "rwindow"; dir = 4},/turf/simulated/floor/airless,/area/space)
+"aj" = (/obj/structure/bed,/turf/simulated/floor/tiled,/area/space)
+"ak" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{tag = "icon-rwindow (NORTH)"; icon_state = "rwindow"; dir = 1},/obj/structure/window/reinforced{tag = "icon-rwindow (EAST)"; icon_state = "rwindow"; dir = 4},/turf/simulated/floor/airless,/area/space)
+"al" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{tag = "icon-rwindow (NORTH)"; icon_state = "rwindow"; dir = 1},/obj/structure/window/reinforced{tag = "icon-rwindow (EAST)"; icon_state = "rwindow"; dir = 4},/turf/simulated/floor,/area/space)
+"am" = (/obj/structure/grille,/obj/structure/window/reinforced{tag = "icon-rwindow (NORTH)"; icon_state = "rwindow"; dir = 1},/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced,/turf/simulated/floor,/area/space)
+"an" = (/obj/structure/grille,/obj/structure/window/reinforced{tag = "icon-rwindow (NORTH)"; icon_state = "rwindow"; dir = 1},/obj/structure/window/reinforced,/turf/simulated/floor,/area/space)
+"ao" = (/obj/structure/grille,/obj/structure/window/reinforced{tag = "icon-rwindow (NORTH)"; icon_state = "rwindow"; dir = 1},/obj/structure/window/reinforced{tag = "icon-rwindow (EAST)"; icon_state = "rwindow"; dir = 4},/obj/structure/window/reinforced,/turf/simulated/floor,/area/space)
+"ap" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{tag = "icon-rwindow (EAST)"; icon_state = "rwindow"; dir = 4},/turf/simulated/floor/airless,/area/space)
+"aq" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{tag = "icon-rwindow (EAST)"; icon_state = "rwindow"; dir = 4},/turf/simulated/floor,/area/space)
+"ar" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{tag = "icon-rwindow (EAST)"; icon_state = "rwindow"; dir = 4},/turf/simulated/floor/airless,/area/space)
+"as" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{tag = "icon-rwindow (EAST)"; icon_state = "rwindow"; dir = 4},/turf/simulated/floor,/area/space)
+"at" = (/turf/simulated/floor/grass,/turf/simulated/shuttle/wall/corner/dark/sw,/area/space)
+"au" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{tag = "icon-rwindow (EAST)"; icon_state = "rwindow"; dir = 4},/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{tag = "icon-rwindow (NORTH)"; icon_state = "rwindow"; dir = 1},/turf/simulated/floor,/area/space)
+"av" = (/turf/simulated/floor/grass,/turf/simulated/shuttle/wall/corner/dark/se,/area/space)
+"aw" = (/obj/structure/grille,/obj/structure/window/reinforced{tag = "icon-rwindow (NORTH)"; icon_state = "rwindow"; dir = 1},/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{tag = "icon-rwindow (EAST)"; icon_state = "rwindow"; dir = 4},/turf/simulated/floor,/area/space)
+"ax" = (/obj/structure/grille,/obj/structure/window/reinforced{tag = "icon-rwindow (NORTH)"; icon_state = "rwindow"; dir = 1},/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{tag = "icon-rwindow (EAST)"; icon_state = "rwindow"; dir = 4},/obj/structure/window/reinforced,/turf/simulated/floor,/area/space)
+"ay" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{tag = "icon-rwindow (EAST)"; icon_state = "rwindow"; dir = 4},/obj/structure/window/reinforced,/turf/simulated/floor,/area/space)
+"az" = (/turf/simulated/floor/asteroid,/area/space)
+"aA" = (/turf/simulated/floor/tiled/white,/area/space)
+"aB" = (/obj/structure/table/steel,/turf/simulated/floor/tiled/white,/area/space)
+"aC" = (/obj/structure/table/woodentable,/turf/simulated/floor/tiled,/area/space)
+"aD" = (/obj/machinery/door/blast/regular,/turf/simulated/floor/asteroid,/area/space)
+"aE" = (/obj/structure/grille,/obj/structure/window/reinforced{tag = "icon-rwindow (EAST)"; icon_state = "rwindow"; dir = 4},/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{tag = "icon-rwindow (NORTH)"; icon_state = "rwindow"; dir = 1},/turf/simulated/floor,/area/space)
+"aF" = (/turf/simulated/floor/wood,/area/space)
+"aG" = (/obj/machinery/bookbinder,/turf/simulated/floor/wood,/area/space)
+"aH" = (/obj/structure/bookcase,/turf/simulated/floor/wood,/area/space)
+"aI" = (/obj/structure/table/woodentable,/obj/machinery/librarycomp,/turf/simulated/floor/wood,/area/space)
+"aJ" = (/obj/structure/table/woodentable,/turf/simulated/floor/wood,/area/space)
+"aK" = (/obj/structure/grille,/obj/structure/window/reinforced{tag = "icon-rwindow (EAST)"; icon_state = "rwindow"; dir = 4},/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{tag = "icon-rwindow (NORTH)"; icon_state = "rwindow"; dir = 1},/turf/simulated/floor,/area/space)
+"aL" = (/obj/structure/grille,/obj/structure/window/reinforced{tag = "icon-rwindow (EAST)"; icon_state = "rwindow"; dir = 4},/obj/structure/window/reinforced{dir = 8},/turf/simulated/floor,/area/space)
+"aM" = (/obj/structure/bed/chair{dir = 4},/turf/simulated/floor/wood,/area/space)
+"aN" = (/obj/structure/bed/chair{dir = 8},/turf/simulated/floor/wood,/area/space)
+"aO" = (/obj/structure/window/reinforced{dir = 8},/turf/simulated/floor/tiled/dark,/area/space)
+"aP" = (/turf/simulated/floor/tiled/dark,/area/space)
+"aQ" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/tiled/dark,/area/space)
+"aR" = (/obj/machinery/power/smes/buildable{charge = 1e+006},/obj/structure/cable/orange{icon_state = "0-4"},/obj/structure/cable/orange{icon_state = "0-8"},/turf/simulated/floor/plating,/area/space)
+"aS" = (/obj/machinery/power/smes/buildable{charge = 1e+006},/obj/structure/cable/orange{icon_state = "0-8"},/turf/simulated/floor/plating,/area/space)
+"aT" = (/turf/simulated/floor/plating,/area/space)
+"aU" = (/obj/structure/grille,/obj/structure/window/reinforced{tag = "icon-rwindow (EAST)"; icon_state = "rwindow"; dir = 4},/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 8},/turf/simulated/floor,/area/space)
+"aV" = (/obj/machinery/power/terminal{dir = 1},/obj/structure/cable/orange{icon_state = "0-2"},/obj/structure/cable/orange{icon_state = "0-4"},/turf/simulated/floor/plating,/area/space)
+"aW" = (/obj/machinery/power/terminal{dir = 1},/obj/structure/cable/orange{icon_state = "0-8"},/obj/structure/cable/orange{icon_state = "0-4"},/turf/simulated/floor/plating,/area/space)
+"aX" = (/obj/machinery/power/terminal{dir = 1},/obj/structure/cable/orange{icon_state = "0-8"},/turf/simulated/floor/plating,/area/space)
+"aY" = (/obj/machinery/light{tag = "icon-tube1 (EAST)"; icon_state = "tube1"; dir = 4},/turf/simulated/floor/plating,/area/space)
+"aZ" = (/obj/structure/window/reinforced{dir = 8},/turf/simulated/floor/plating,/area/space)
+"ba" = (/obj/structure/cable/orange{icon_state = "1-2"},/turf/simulated/floor/plating,/area/space)
+"bb" = (/obj/machinery/atmospherics/pipe/simple/visible/blue{dir = 6},/turf/simulated/floor/plating,/area/space)
+"bc" = (/obj/machinery/atmospherics/binary/fusion_cooling{tag = "icon-cooling_manifold (EAST)"; icon_state = "cooling_manifold"; dir = 4},/turf/simulated/floor/plating,/area/space)
+"bd" = (/obj/machinery/atmospherics/pipe/simple/visible/red{dir = 10},/turf/simulated/floor/plating,/area/space)
+"be" = (/obj/machinery/atmospherics/pipe/simple/visible/blue{dir = 6},/obj/structure/cable/orange{icon_state = "1-2"},/turf/simulated/floor/plating,/area/space)
+"bf" = (/obj/machinery/atmospherics/pipe/simple/visible/blue{dir = 4},/turf/simulated/floor/plating,/area/space)
+"bg" = (/obj/machinery/atmospherics/pipe/simple/visible/blue{dir = 10},/turf/simulated/floor/plating,/area/space)
+"bh" = (/obj/machinery/atmospherics/binary/fusion_cooling{tag = "icon-cooling_manifold (NORTH)"; icon_state = "cooling_manifold"; dir = 1},/turf/simulated/floor/plating,/area/space)
+"bi" = (/obj/machinery/power/fusion_drive,/obj/structure/cable/orange{icon_state = "0-4"},/turf/simulated/floor/plating,/area/space)
+"bj" = (/obj/machinery/atmospherics/pipe/simple/visible/red{dir = 5; icon_state = "intact"; tag = "icon-intact (SOUTHWEST)"},/obj/structure/cable/orange{icon_state = "4-8"},/turf/simulated/floor/plating,/area/space)
+"bk" = (/obj/machinery/atmospherics/pipe/simple/visible/blue,/obj/machinery/atmospherics/pipe/simple/visible/red{dir = 4},/obj/structure/cable/orange{icon_state = "1-4"},/obj/structure/cable/orange{icon_state = "1-8"},/turf/simulated/floor/plating,/area/space)
+"bl" = (/obj/machinery/atmospherics/pipe/simple/visible/red{dir = 10},/obj/structure/cable/orange{icon_state = "4-8"},/turf/simulated/floor/plating,/area/space)
+"bm" = (/obj/machinery/power/fusion_drive,/obj/structure/cable/orange{icon_state = "0-8"},/turf/simulated/floor/plating,/area/space)
+"bn" = (/obj/machinery/atmospherics/binary/fusion_cooling,/turf/simulated/floor/plating,/area/space)
+"bo" = (/obj/machinery/atmospherics/pipe/simple/visible/blue{dir = 5},/turf/simulated/floor/plating,/area/space)
+"bp" = (/obj/machinery/atmospherics/binary/fusion_cooling{tag = "icon-cooling_manifold (WEST)"; icon_state = "cooling_manifold"; dir = 8},/turf/simulated/floor/plating,/area/space)
+"bq" = (/obj/machinery/atmospherics/pipe/manifold/visible/blue{dir = 1},/turf/simulated/floor/plating,/area/space)
+"br" = (/obj/machinery/atmospherics/pipe/simple/visible/blue{dir = 9},/turf/simulated/floor/plating,/area/space)
+"bs" = (/obj/machinery/atmospherics/pipe/manifold/visible/red{dir = 8},/turf/simulated/floor/plating,/area/space)
+"bt" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{tag = "icon-rwindow (NORTH)"; icon_state = "rwindow"; dir = 1},/turf/simulated/floor,/area/space)
+"bu" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{tag = "icon-rwindow (NORTH)"; icon_state = "rwindow"; dir = 1},/turf/simulated/floor,/area/space)
+"bv" = (/obj/structure/grille,/obj/structure/window/reinforced{tag = "icon-rwindow (EAST)"; icon_state = "rwindow"; dir = 4},/obj/structure/window/reinforced,/obj/structure/window/reinforced{tag = "icon-rwindow (NORTH)"; icon_state = "rwindow"; dir = 1},/turf/simulated/floor,/area/space)
+"bw" = (/obj/machinery/atmospherics/pipe/simple/visible/blue,/turf/simulated/floor/plating,/area/space)
+"bx" = (/obj/machinery/atmospherics/pipe/simple/visible/red,/turf/simulated/floor/plating,/area/space)
+"by" = (/obj/machinery/door/window/westleft,/turf/simulated/floor/tiled/dark,/area/space)
+"bz" = (/obj/machinery/atmospherics/unary/freezer{dir = 8; icon_state = "freezer_1"; set_temperature = 0; use_power = 1},/turf/simulated/floor/plating,/area/space)
+"bA" = (/obj/structure/window/reinforced,/turf/simulated/floor/tiled,/area/space)
+"bB" = (/obj/machinery/atmospherics/portables_connector{dir = 4},/obj/machinery/portable_atmospherics/canister/oxygen/prechilled,/obj/structure/window/reinforced{dir = 8},/turf/simulated/floor/tiled/dark,/area/space)
+"bC" = (/obj/machinery/atmospherics/pipe/simple/visible/blue{dir = 10},/turf/simulated/floor/tiled/dark,/area/space)
+"bD" = (/turf/simulated/floor,/area/space)
+"bE" = (/obj/machinery/atmospherics/portables_connector{dir = 4},/obj/machinery/portable_atmospherics/canister/oxygen/prechilled,/turf/simulated/floor/tiled/dark,/area/space)
+"bF" = (/obj/machinery/atmospherics/pipe/manifold/visible/blue{dir = 4},/turf/simulated/floor/tiled/dark,/area/space)
+"bG" = (/obj/machinery/meter,/obj/machinery/atmospherics/pipe/manifold/visible/blue,/turf/simulated/floor/tiled/dark,/area/space)
+"bH" = (/obj/machinery/atmospherics/binary/pump/high_power/on{dir = 4; target_pressure = 15000},/obj/machinery/light,/turf/simulated/floor/plating,/area/space)
+"bI" = (/obj/machinery/atmospherics/pipe/manifold/visible/blue,/obj/machinery/meter,/turf/simulated/floor/plating,/area/space)
+"bJ" = (/obj/machinery/atmospherics/binary/pump/high_power/on{dir = 8; target_pressure = 15000},/turf/simulated/floor/plating,/area/space)
+"bK" = (/obj/machinery/atmospherics/pipe/simple/visible/red{tag = "icon-intact (NORTHWEST)"; icon_state = "intact"; dir = 9},/obj/machinery/meter,/turf/simulated/floor/plating,/area/space)
+"bL" = (/obj/machinery/light,/turf/simulated/floor/plating,/area/space)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaaaaaa
+aaaaaaaaababababababababababababababababababababacadadadadadaeababababacadadadadadaeababababababababababababababababababababababababababababababababaaaaaaaa
+aaaaaaaaababababababababababababababababababababadafafafafafadababababadafafafafafadababababababababababababababacadadagahaiadadagahaiadadaeababababaaaaaaaa
+aaaaaaaaababababababababababababababababababababadafajafajafadababababadafajafajafadababababababababababababababadafafafafafafafafafafafafadababababaaaaaaaa
+aaaaaaaaababababababababababababababababababababadafafafafafadababababadafafafafafadababababababababababababababadafafafafafafafafafafafafadababababaaaaaaaa
+aaaaaaaaababababababababababababababababababababadafajafajafadababababadafajafajafadababababababababababababababakafafafafafafafafafafafafalababababaaaaaaaa
+aaaaaaaaababababababababacadamananaoadaeababababadafafafafafadababababadafafafafafadababababababababababababababapafafafafafafafafafafafafaqababababaaaaaaaa
+aaaaaaaaabababababababacadafafafafafafadaeabababadafajafajafadababababadafajafajafadababababababababababababababapafafafafafafafafafafafafaqababababaaaaaaaa
+aaaaaaaaabababababababadafafafafafafafafadabababadafafafafafadababababadafafafafafadababababababababababababababarafafafafafafafafafafafafasababababaaaaaaaa
+aaaaaaaaababababababacadafafafafafafafafadaeababatadafauafadavababababatadafauafadavababababababababababababababadafafafafafafafafafafafafadababababaaaaaaaa
+aaaaaaaaababababababadafafafafafafafafafafadababababafabafababababababababafabafababababababababababababababababadafafafafafafafafafafafafalababababaaaaaaaa
+aaaaaaaaababababababawafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaqababababaaaaaaaa
+aaaaaaaaababababababaqafafafafafafafafafafaxafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaqababababaaaaaaaa
+aaaaaaaaababababababayafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafasababababaaaaaaaa
+aaaaaaaaababababababadafafafafafafafafafafadazazababafabafabababafafabababafabafababababababababafafababababababadafafafafafafafafafafafafadababababaaaaaaaa
+aaaaaaaaababababababatadafafafafafafafafadavazazacadafauafadaeabafafabacadafauafadaeababababababafafababababababadadadadadaAaBaBaBaBaBaBadadababababaaaaaaaa
+aaaaaaaaabababababababadafafafafafafafafadabazazadafafafafafadabafafabadafafafafafadababababababafafababababababadaAaAaAadaAaAaAaAaAaAaAaAadababababaaaaaaaa
+aaaaaaaaabababababababatadadaxafafaxadadavabazazadafajafajafadabafafabadafajafajafadababababababafafababababababadaAaAaAadaAaAaAaAaAaAaAaAadababababaaaaaaaa
+aaaaaaaaabacadadadadadadadadafafafafadavababazazadafafafafafadabafafabadafafafafafadababababababafafababababababadaAaAaAaAaAaAaAaAaAaAaAaAadababababaaaaaaaa
+aaaaaaaaabadafafafafafafafadafafafafadabababazazadafajafajafadabafafabadafajafajafadababababababafafababababababadaAaAaAaAaAaAaAaAaAaAaAaAadababababaaaaaaaa
+aaaaaaaaabadafafafafafafafadafafafafadabababazazadafafafafafadabafafabadafafafafafadababababababafafababababababadaAaAaAadaAaAaAaAaAaAaAaAadababababaaaaaaaa
+aaaaaaaaabadafafaCaCaCafafadafafafafadabababazazadafajafajafadabafafabadafajafajafadababababababafafababababababadaAaAaAadaAaAaAaAaAaAaAaAadababababaaaaaaaa
+aaaaaaaaabadafafafafafafafadafafafafadabababazazadafafafafafadabafafabadafafafafafadababababababafafababababababatadadadadadadadadadadadadavababababaaaaaaaa
+aaaaaaaaabadafaCafaCafaCafadafafafafadabababazazatadadadadadavabafafabatadadadadadavababababababafafababababababababababababababababababababababababaaaaaaaa
+aaaaaaaaabadafafafafafafafafafafafafafafafafafazababababababababafafababababababababababababababafafababababababababababababababababababababababababaaaaaaaa
+aaaaaaaaabadafaCafaCafaCafafafafafafafafafafafafababababababababafafababababababababababababababafafababababababababababababababababababababababababaaaaaaaa
+aaaaaaaaabadafafafafafafafadafafafafadabafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafadadadad
+aaaaaaaaabadafaCafaCafaCafadafafafafadababafafafafafazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazaD
+aaaaaaaaabadafafafafafafafadafafafafadababababafafafazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazazaD
+aaaaaaaaabadafaCafaCafaCafadafafafafadababababababafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafadadadad
+aaaaaaaaabadafafafafafafafadafafafafadabababababababababababababafafababababababababababababababababababababafafababababababababababababababababababaaaaaaaa
+aaaaaaaaabatadadadadadadadadafafafafadabababababababababababababafafababababababababababababababababababababafafababababababababababababababababababaaaaaaaa
+aaaaaaaaabababababababacadadaEafafaEadadaeababababababacagahaiadaFaFadagahaiaeabababababababababababababababafafababababababababababababababababababaaaaaaaa
+aaaaaaaaabababababababadafafafafafafafafadabababababacadaGaFaFaFaFaFaHaHaHaHadaeababababababababababababababafafababababababababababababababababababaaaaaaaa
+aaaaaaaaababababababacadafafafafafafafafadaeababababadaIaFaFaFaJaFaFaFaFaFaFaHadababababababababababababababafafababababababababababababababababababaaaaaaaa
+aaaaaaaaababababababadafafafafafafafafafafadababababadaJaJaJaJaJaFaFaHaHaHaFaHadababababababababababababababafafababababababababababababababababababaaaaaaaa
+aaaaaaaaababababababaKafafafafafafafafafafaKababababakaFaFaFaFaFaFaFaFaFaFaFaHakababababababababababababababafafacadadadadadadadadadadadadadadaeababaaaaaaaa
+aaaaaaaaababababababaLafafafafafafafafafafaLababababapaMaJaNaMaJaNaFaFaFaFaFaHapababababababababababababababafafadafafafafafaOaPaPaQaRaRaSaTaTadababaaaaaaaa
+aaaaaaaaababababababaUafafafafafafafafafafaUababababaraMaJaNaMaJaNaFaFaFaFaFaHarababababababababababababababafafadafafafafafaOaPaPaPaVaWaXaTaYadababaaaaaaaa
+aaaaaaaaababababababadafafafafafafafafafafadababababadaFaFaFaFaFaFaFaHaHaHaFaHadababababababababababababababafafadafafafafafaZaTaTaTbaaTaTaTaTadababaaaaaaaa
+aaaaaaaaababababababatadafafafafafafafafadavababababadaFaFaFaMaJaNaFaFaFaFaFaHadababababababababababababababafafafafafafafafaZbbbcbdbebfbcbgaTadababaaaaaaaa
+aaaaaaaaabababababababadafafafafafafafafadabababababatadaFaFaMaJaNaFaHaHaHaHadavababababababababababababababafafadafafafafafaZbhbibjbkblbmbnaTadababaaaaaaaa
+aaaaaaaaabababababababatadafafafafafafadavababababababatadadadagahahaiadadadavabababababababababababababababafafafafafafafafaZbobpbqbrbsbpbraTadababaaaaaaaa
+aaaaaaaaababababababababatadbtbububvadavababababababababababababababababababababababababababababababababababababadafafafafafaZaTaTbwaTbxaTaTaTadababaaaaaaaa
+aaaaaaaaababababababababababababababababababababababababababababababababababababababababababababababababababababadafafafafafbyaPaTbwaTbsbzaTaTadababaaaaaaaa
+aaaaaaaaababababababababababababababababababababababababababababababababababababababababababababababababababababadbAbAbAbAbAbBbCaTbwaTbsbzaTaTadababaaaaaaaa
+aaaaaaaaababababababababababababababababababababababababababababababababababababababababababababababababababababadbDbDbDbDbDbEbFaTbwaTbsbzaTaTadababaaaaaaaa
+aaaaaaaaababababababababababababababababababababababababababababababababababababababababababababababababababababadbDbDbDbDbDbEbGbHbIbJbKaTbLaTadababaaaaaaaa
+aaaaaaaaababababababababababababababababababababababababababababababababababababababababababababababababababababatadadadadadadadadadadadadadadavababaaaaaaaa
+aaaaaaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
